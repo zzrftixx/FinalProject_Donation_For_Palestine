@@ -38,10 +38,6 @@ dart bin/main.dart
 # dart run main.dart
 ```
 
-```bash
-run test Application
-# dart run bin/source/fullcode_ReEdit.dart
-```
 
 ### Sedikit Tentang Page ini
 - ✔️ | **Application Console** 
